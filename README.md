@@ -1,8 +1,8 @@
 # Analyse d’une transaction Bitcoin sur TestNet4
 
-**Auteur :** [Votre nom et prénom]  
+**Auteur :** [BAHSAIN Mohamed]  
 **Formation :** Master FinTech / Blockchain  
-**TP :** TP3 — GitHub et projets blockchain
+ TP3 — GitHub et projets blockchain
 
 ## 1. Question étudiée
 Comment une transaction Bitcoin utilise-t-elle des entrées (inputs) et des sorties (outputs), comment calcule-t-on les frais, et quel est le rôle des UTXO ?
@@ -27,5 +27,3 @@ Le fichier [`analyse_transaction.md`](analyse_transaction.md) présente les donn
 - Documentation Bitcoin Developer Guide — Transactions : https://developer.bitcoin.org/devguide/transactions.html
 - Mempool.space — API REST TestNet4 : https://www.mempool.space/testnet4/docs/api/rest
 
-## 7. Auteur et vérification
-Avant la remise, remplacez `[Votre nom et prénom]` par votre identité, ouvrez le lien de la transaction pour vérifier les données, puis ajoutez dans GitHub l’historique des commits demandé par l’enseignant.

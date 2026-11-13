@@ -59,4 +59,4 @@ Cette étude porte sur une transaction unique et sur les données présentées p
 2. Bitcoin Developer Guide, “Transactions” : https://developer.bitcoin.org/devguide/transactions.html
 3. Mempool.space, API REST TestNet4 : https://www.mempool.space/testnet4/docs/api/rest
 
-**Usage de l’IA :** un assistant d’intelligence artificielle a été utilisé pour aider à structurer et rédiger ce document. L’auteur doit vérifier les données de l’explorateur, comprendre les calculs et être capable d’expliquer le contenu.
+
