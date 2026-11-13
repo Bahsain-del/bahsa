@@ -26,4 +26,4 @@ Le fichier [`analyse_transaction.md`](analyse_transaction.md) présente les donn
 - Transaction étudiée : https://mempool.space/testnet4/tx/e186efdf2bbda574efd5eb35d1f9071a1ddc52ac405700a5e80e810a62e423c2
 - Documentation Bitcoin Developer Guide — Transactions : https://developer.bitcoin.org/devguide/transactions.html
 - Mempool.space — API REST TestNet4 : https://www.mempool.space/testnet4/docs/api/rest
-
+Ce dépôt a été publié dans le cadre du TP3 GitHub et projets blockchain. BAHSAIN MOHAMED
