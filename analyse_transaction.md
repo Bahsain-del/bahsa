@@ -59,4 +59,6 @@ Cette étude porte sur une transaction unique et sur les données présentées p
 2. Bitcoin Developer Guide, “Transactions” : https://developer.bitcoin.org/devguide/transactions.html
 3. Mempool.space, API REST TestNet4 : https://www.mempool.space/testnet4/docs/api/rest
 
-
+## Vérification des résultat
+Les montants des entrées et des sorties ont été comparés. La différence entre les deux correspond aux frais de transaction affichés par l’explorateur. Cette vérification permet de contrôler la cohérence arithmétique des données étudiées.
+3.
